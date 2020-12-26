@@ -6,3 +6,5 @@ var nameComp = Math.random() * 100;
 nameComp = Math.floor(nameComp) + 1;
 
 alert("Your Name Compatibility is " + nameComp + "%");
+
+// StenTechDev.com
